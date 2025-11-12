@@ -26,6 +26,6 @@ public class Client {
         Client gcp = new Client(new GoogleResourceFactory());
         Instance instance2 = gcp.createServer(Instance.Capacity.large, 50000);
         instance2.start();
-        instance1.stop();
+        instance2.stop();
     }
 }
