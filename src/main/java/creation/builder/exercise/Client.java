@@ -1,4 +1,4 @@
-package creation.builder.excercise;
+package creation.builder.exercise;
 
 public class Client {
 

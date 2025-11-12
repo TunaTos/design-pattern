@@ -1,4 +1,4 @@
-package creation.factory_method.excercise;
+package creation.factory_method.exercise;
 
 interface Payment {
     void processPayment(int amount);
